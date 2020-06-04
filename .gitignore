@@ -3,3 +3,5 @@ babynames_short.csv
 .ipynb_checkpoints
 spark-warehouse
 nyc_taxi
+data
+nybb.zip
